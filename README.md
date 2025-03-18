@@ -50,6 +50,7 @@ The `output.xlsx` file contains:
 # Requirements
    - Python 3.x
    - Libraries: pandas, numpy, openpyxl, matplotlib
+
 Install the required libraries using:
 	
 	pip install pandas numpy openpyxl matplotlib
